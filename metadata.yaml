@@ -1,0 +1,37 @@
+_repo: The-zoology-of-the-voyage-of-HMS-Beagle-vol-2-of-5-Under-the-command-of-Captain-Fitzroy-RN-du__69577
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waterhouse, George R.
+    gutenberg_agent_id: '55330'
+    url: http://www.gutenberg.org/2009/agents/55330
+  editor:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69577'
+language: en
+pgterms:marc904: https://www.biodiversitylibrary.org/ia/NHM_UK_L_3967751001#page/255
+pgterms:marc905: 20191103160608darwin
+pgterms:marc906: '1839'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biodiversity Heritage
+  Library.)
+publication_note: 'United Kingdom: Smith, Elder & Co.,1839,copyright 1840,copyright
+  1841,copyright 1843.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The zoology of the voyage of H.M.S. Beagle [vol. 2 of 5]: Under the command
+  of Captain Fitzroy, R.N., during the years 1832 to 1836.'
+url: http://www.gutenberg.org/ebooks/69577
