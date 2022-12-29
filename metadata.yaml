@@ -1,5 +1,8 @@
 _repo: The-zoology-of-the-voyage-of-HMS-Beagle-vol-2-of-5-Under-the-command-of-Captain-Fitzroy-RN-du__69577
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69577-h/images/cover.jpg
 creator:
   author:
     agent_name: Waterhouse, George R.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69577#The-zoology-of-the-voyage-of-HMS-Beagle-vol-2-of-5-Under-the-command-of-Captain-Fitzroy-RN-du_
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69577'
